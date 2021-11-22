@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Node Js
 - 🌱 I’m currently learning the backend!
-- 👯 I’m looking to collaborate on my Internship Project
+- 👯 I’m looking to collaborate on my Project
 - 🤔 I’m looking for help with javascript
 - 💬 Ask me about anything
 - 😄 Pronouns: ...
